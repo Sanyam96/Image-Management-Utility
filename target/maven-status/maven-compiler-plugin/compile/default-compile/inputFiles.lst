@@ -1,0 +1,15 @@
+/home/sanyam/Documents/imagemanagementutility/src/main/java/com/nagarro/controller/GetImagesSize.java
+/home/sanyam/Documents/imagemanagementutility/src/main/java/com/nagarro/controller/ResetPassword.java
+/home/sanyam/Documents/imagemanagementutility/src/main/java/com/nagarro/controller/ImageEdit.java
+/home/sanyam/Documents/imagemanagementutility/src/main/java/com/nagarro/controller/ImageRetriever.java
+/home/sanyam/Documents/imagemanagementutility/src/main/java/com/nagarro/utils/HibernateUtilities.java
+/home/sanyam/Documents/imagemanagementutility/src/main/java/com/nagarro/services/ImageManagementImplementation.java
+/home/sanyam/Documents/imagemanagementutility/src/main/java/com/nagarro/models/User.java
+/home/sanyam/Documents/imagemanagementutility/src/main/java/com/nagarro/interfaces/ImageManagementInterface.java
+/home/sanyam/Documents/imagemanagementutility/src/main/java/com/nagarro/services/LoginImplementation.java
+/home/sanyam/Documents/imagemanagementutility/src/main/java/com/nagarro/controller/Logout.java
+/home/sanyam/Documents/imagemanagementutility/src/main/java/com/nagarro/controller/Login.java
+/home/sanyam/Documents/imagemanagementutility/src/main/java/com/nagarro/controller/ImageUpload.java
+/home/sanyam/Documents/imagemanagementutility/src/main/java/com/nagarro/models/Image.java
+/home/sanyam/Documents/imagemanagementutility/src/main/java/com/nagarro/controller/ImageDelete.java
+/home/sanyam/Documents/imagemanagementutility/src/main/java/com/nagarro/interfaces/LoginInterface.java
